@@ -2,7 +2,7 @@
 ## Hi there 👋, I'm Gurpreet Singh <br/>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/preet-zd/preet-zd/blob/main/code.gif">
+  <img align="right" height="222" width="382" alt="GIF" src="https://github.com/preet-zd/preet-zd/blob/main/code.gif">
 </a>
 
 
