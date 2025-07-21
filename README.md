@@ -7,7 +7,7 @@
 
 
 
-- 🖥️ Software Developer I on the SunCo Partition team.
+- 🖥️ Software Developer I on the SunCo Partition team
 - 🎓 Recently graduated with a degree in Computing and Mathematics from Queen's University
 - 💬 How to reach me: gurpreet.singh@zendesk.com
 - ✨ Pronouns: he/him
